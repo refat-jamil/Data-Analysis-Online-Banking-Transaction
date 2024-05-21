@@ -1,6 +1,3 @@
-
-# Data Analyst - Online Banking Transaction
-
 ## Project Overview:
 This project looks at online banking transactions to find useful information for making decisions. The data comes from a MySQL database with four tables: area, region, customer joining, and customer transaction. The data is then processed, transformed, and loaded into a warehouse database using ETL (Extract, Transform, Load) techniques facilitated by Python. To visualize the analyzed data and insights, a dashboard is created using PowerBI
 
