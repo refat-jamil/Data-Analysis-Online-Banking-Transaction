@@ -25,7 +25,7 @@ This project looks at online banking transactions to find useful information for
 
 
 ## Analysis:
-Once the data is loaded into the warehouse database, various queries are executed to analyze the data based on specific [requirements](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/DDL/requirements.txt). These queries provide insights into customer behavior, transaction patterns, geographical trends, and more.
+Once the data is loaded into the warehouse database, various [sql queries]([https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/DDL/requirements.txt](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/analysis%20script.sql)) are executed to analyze the data based on specific [requirements](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/DDL/requirements.txt). These queries provide insights into customer behavior, transaction patterns, geographical trends, and more.
 
 ## Dashboard Creation:
 To visualize the analyzed data and insights, a dashboard is created using PowerBI. The dashboard presents key metrics, trends, and visual representations of the data, making it easier for stakeholders to interpret and understand the findings.
