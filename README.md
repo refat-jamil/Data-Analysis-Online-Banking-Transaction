@@ -3,7 +3,6 @@ This project looks at online banking transactions to find useful information for
 
 
 ## ETL Process Overview: 
-[ETL Script](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/tree/main/ETL)
 #### Full Truncation: 
 - Entire Region and Area tables are extracted and loaded into a warehouse.
 
@@ -11,6 +10,8 @@ This project looks at online banking transactions to find useful information for
 - New or updated records are extracted from the source for customer id, customer joining and customer transaction tables. 
 - Only Customer ID table are extracted, transformed and loaded into a warehouse  
 - and others two table are extracted and loaded into a warehouse
+[ETL Python Script](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/tree/main/ETL)
+
 
 
 ## Warehouse Database Schema:
