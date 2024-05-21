@@ -17,6 +17,7 @@ This project looks at online banking transactions to find useful information for
 - Region Table: Holds data regarding various regions.
 - Customer Joining Table: Stores details about customers joining the online banking platform.
 - Customer Transaction Table: Records transactions made by customers.
+- Customer ID Table: All unique customers id sorted. 
 ![ERD](https://raw.githubusercontent.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/main/img/ERD.png)
 
 
