@@ -29,7 +29,7 @@ This project looks at online banking transactions to find useful information for
 ## Analysis:
 Once the data is loaded into the warehouse database, various sql queries are executed to analyze the data based on specific requirements. These queries provide insights into customer behavior, transaction patterns, geographical trends, and more.
 
-[Requirements](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/DDL/requirements.txt)
+[Analysis Requirements](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/DDL/requirements.txt)
  
 [Analysis SQL Script](https://github.com/refat-jamil/Data-Analysis-Online-Banking-Transaction/blob/main/analysis%20script.sql)
 
